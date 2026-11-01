@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "techmod",
+  "version": "${version}",
+  "name": "Tech Mod",
+  "description": "Simple tech mod: generator, cables, electric furnace, ore crusher and quarry.",
+  "authors": ["you"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.techmod.TechMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

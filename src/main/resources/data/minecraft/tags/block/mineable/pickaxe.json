@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "techmod:cable",
+    "techmod:item_cable",
+    "techmod:generator",
+    "techmod:electric_furnace",
+    "techmod:crusher",
+    "techmod:quarry"
+  ]
+}
